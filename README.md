@@ -25,5 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Singh-Yadav&theme=radical&" alt="Ashutosh-Singh-Yadav" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashutosh-Singh-Yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh-Singh-Yadav" /></p>
-
