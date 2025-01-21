@@ -18,3 +18,12 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/>
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutosh-Singh-Yadav&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Ashutosh-Singh-Yadav" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Singh-Yadav&show_icons=true&theme=highcontrast&locale=en" alt="Ashutosh-Singh-Yadav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Singh-Yadav&theme=radical&" alt="Ashutosh-Singh-Yadav" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashutosh-Singh-Yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Ashutosh-Singh-Yadav" /></p>
+
