@@ -1,6 +1,6 @@
 ## Hi there 👋💕
 
-- 🌱 I’m currently learning : Python, C++,C , SQL.
+- 🌱 I’m currently learning : Python,C , SQL ,CSS.
 - 📫 How to reach me: **ashutosh.singhyadav.aiml28@heritagit.edu.in**
 
 <h3 align="left">Connect with me:</h3>
